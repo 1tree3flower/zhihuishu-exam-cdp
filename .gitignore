@@ -1,0 +1,6 @@
+# 运行时临时产物，不要提交
+net_dump*.json
+net_*.json
+questions*.json
+answers*.json
+*.png
